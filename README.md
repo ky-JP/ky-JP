@@ -1,5 +1,5 @@
-### Hi there! I am João Paulo 👋
+### Olá! Me chamo João Paulo 👋
 
-- 🌱 I’m currently learning Java
-- 👯 I’m looking to collaborate on open source projects with Java
+- 🌱 Atualmente estudando Java com a referência do livro do Paul e Harvey Deitel
+- 👯 Pretendo colaborar com projetos Open Sources em Java
 
