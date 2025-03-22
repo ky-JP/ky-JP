@@ -1,4 +1,4 @@
-### Olá! Me chamo João Paulo 👋
+### Hi, João Paulo here 👋
 
 - 🌱 I'm currently learning Java.
 
